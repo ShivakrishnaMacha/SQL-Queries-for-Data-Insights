@@ -28,4 +28,4 @@ The repository includes the following SQL scripts:
 ✔️ **Segmentation & Reporting** – Categorizing data for meaningful insights.  
 
 ## Author
-📌 [Shivakrishna Macha] – Data Analyst & SQL Enthusiast
+📌 Shivakrishna Macha – Data Analyst & SQL Enthusiast
